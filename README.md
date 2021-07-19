@@ -15,3 +15,10 @@
 1. In the second top bar on the page, click on "Load unpacked"
 1. Select the unzipped folder TE Comps.
 1. The extension is now ready to use.
+
+### Features
+* Auto Join Lectures 5 mins before (or custom time)
+* Auto Leave Lectures after specified time
+* Custom Lecture Schedules
+* Auto update Time Table
+* Set Default Google User Account to join Lecture
